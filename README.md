@@ -10,4 +10,6 @@ Make use of the pretrained "COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x.yaml
 ### Results :
 
 
-file:///home/mogtaba/Downloads/135876613-2a39763b-a197-44f0-8868-f57ae3db237f.mp4 
+
+https://user-images.githubusercontent.com/45710249/135898268-ee976949-5344-454a-ba2e-d127eeeddd5f.mp4
+
